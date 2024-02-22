@@ -20,3 +20,6 @@ Dotfiles: https://github.com/actionless/awesome_config
 ## Awful-DOTS
 Autor: Amithaba37377
 Dotfiles: https://github.com/Amitabha37377/Awful-DOTS
+## dotfiles-awesomewm
+Autor: DanCarzano
+Dotfiles: https://github.com/DanCarzano/dotfiles-awesomewm.git
